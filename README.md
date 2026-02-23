@@ -80,7 +80,3 @@ This project is optimized for deployment on static hosting services.
 
 
 © 2026 Forum Bisnis Cendekia. All Rights Reserved.
-
-```
-
-```
