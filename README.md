@@ -78,7 +78,6 @@ This project is optimized for deployment on static hosting services.
 * **Email:** forumbisniscendekia@gmail.com
 * **Instagram:** [@forum_cendekia](https://www.instagram.com/forum_cendekia/)
 
----
 
 © 2026 Forum Bisnis Cendekia. All Rights Reserved.
 
